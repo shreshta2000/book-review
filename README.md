@@ -19,3 +19,20 @@ This repository contains the source code for a **Book Review Application** that 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/shreshta2000/book-review.git
+
+   ## Usage
+
+1. **Home Page**: 
+   - Displays a list of all books and their reviews.
+   - Users can view the details of a book by clicking on it.
+
+2. **Add Review**:
+   - Navigate to the 'Add Review' section from the navigation bar or button.
+   - Fill out the form with the book title, rating, and your review.
+   - Submit the form to add the review.
+
+3. **Manage Reviews**:
+   - Logged-in users can edit or delete their own reviews.
+   - To edit a review, click the 'Edit' button next to your review, make changes, and submit.
+   - To delete a review, click the 'Delete' button and confirm the action.
+
