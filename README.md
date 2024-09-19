@@ -20,8 +20,8 @@ This repository contains the source code for a **Book Review Application** that 
    ```bash
    git clone https://github.com/shreshta2000/book-review.git
 
-   ## Usage
-
+  
+ ## Usage
 1. **Home Page**: 
    - Displays a list of all books and their reviews.
    - Users can view the details of a book by clicking on it.
